@@ -7,12 +7,10 @@ Help workaround Chinese asynchronously input problem.
 
 ## Usage
 
-***
-// import this file
-
-const Input = createOptimisticInputContainer('input');
-const Textarea createOptimisticInputContainer('textarea');
-***
+    // import this file
+    
+    const Input = createOptimisticInputContainer('input');
+    const Textarea createOptimisticInputContainer('textarea');
 
 ## License
 MIT
