@@ -9,8 +9,8 @@ Help workaround Chinese asynchronously input problem.
 
     // import this file
     
-    const Input = createOptimisticInputContainer('input');
-    const Textarea createOptimisticInputContainer('textarea');
+    const Input = buildInput('input');
+    const Textarea = buildInput('textarea');
 
 ## License
 MIT
